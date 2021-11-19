@@ -1,0 +1,11 @@
+[+] Found new listings 1636590586.9167132
+[+] Found new listings 1636590601.3559813
+[+] Found new listings 1636590608.6296227
+[+] Found new listings 1636590616.2291248
+[+] Found new listings 1636590716.8664925
+[+] Buy Order for 0.14 ENS_USDT placed at 79.968 USDT #92393216223
+[!] Waiting until order is fullfilled...
+[!] Call placed CA0b1033c2d6a2a3304a06771818178d14
+[+] Order Fullfilled #92393216223
+[+] Sell Order for 0.13972 ENS_USDT placed at 85.566 USDT #92393287709
+[+] Found new listings 1636590927.1947823
